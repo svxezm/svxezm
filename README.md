@@ -29,9 +29,13 @@ Me chamo Igor e estou começando minha jornada no mundo da programação.
 
 ### Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=portfolio&theme=synthwave)](https://github.com/anuragharza/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=color-generator&theme=synthwave)](https://github.com/anuragharza/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=portfolio&theme=synthwave)](https://github.com/anuragharza/github-readme-stats)
+### Contatos
+
+[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30">](https://discord.com/users/1201863684117504020)
 <!--
 **monitzz/monitzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
