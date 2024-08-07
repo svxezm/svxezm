@@ -30,9 +30,12 @@ Atualmente, estou cursando Desenvolvedor Full Stack Python da EBAC.
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=portfolio&theme=synthwave)](https://github.com/anuragharza/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=portfolio&theme=synthwave)](https://github.com/monitzz/portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=color-generator&theme=synthwave)](https://github.com/anuragharza/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=color-generator&theme=synthwave)](https://github.com/monitzz/color-generator)
+
+### Linguagens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitzz&hide_progress=true&theme=synthwave)
 
 ### Contatos
 
