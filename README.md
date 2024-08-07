@@ -35,7 +35,7 @@ Atualmente, estou cursando Desenvolvedor Full Stack Python da EBAC.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=color-generator&theme=synthwave)](https://github.com/monitzz/color-generator)
 
 ### Linguagens utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitzz&hide_progress=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitzz&hide_progress=false&theme=synthwave&layout=compact)
 
 ### Contatos
 
