@@ -26,16 +26,16 @@ Atualmente, estou cursando Desenvolvedor Full Stack Python da EBAC.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monitzz&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svxezm&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=portfolio&theme=synthwave)](https://github.com/monitzz/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svxezm&repo=portfolio&theme=synthwave)](https://github.com/svxezm/portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monitzz&repo=color-generator&theme=synthwave)](https://github.com/monitzz/color-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svxezm&repo=color-generator&theme=synthwave)](https://github.com/svxezm/color-generator)
 
 ### Linguagens utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitzz&hide_progress=false&theme=synthwave&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svxezm&hide_progress=false&theme=synthwave&layout=compact)
 
 ### Contatos
 
