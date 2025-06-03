@@ -1,7 +1,7 @@
 ## Olá 👋
 
 Me chamo Igor e estou começando minha jornada no mundo da programação.
-Atualmente, estou cursando Desenvolvedor Full Stack Python da EBAC.
+Atualmente, trabalho como dev front-end na Allinsys.
 
 ### Habilidades
 
