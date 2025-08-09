@@ -18,7 +18,7 @@ Atualmente, trabalho como dev front-end na Allinsys.
 ### Sistemas Operacionais
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](#)
-[![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
+[![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%20-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
 
 ### Detalhes
 
