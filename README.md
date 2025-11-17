@@ -1,15 +1,15 @@
 ## Olá 👋
 
 Me chamo Igor e estou começando minha jornada no mundo da programação.
-Atualmente, trabalho como dev front-end na Allinsys.
+Atualmente, estou em busca de emprego.
 
 ### Habilidades
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/rust-%23a05d29.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 
 ### Editores
 [![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)](#)
@@ -17,7 +17,7 @@ Atualmente, trabalho como dev front-end na Allinsys.
 
 ### Sistemas Operacionais
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](#)
+[![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](#)
 [![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%20-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
 
 ### Detalhes
